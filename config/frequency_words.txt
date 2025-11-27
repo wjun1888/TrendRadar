@@ -22,11 +22,6 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
